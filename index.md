@@ -15,4 +15,5 @@
 
 ### Education
 Xiaoqin Pan received the B.E. degree in Computer Science from Nanchang University, China, in 2019. She is currently pursuing toward the Master’s degree at the Hunan University. Her current research interests include artificial intelligence, Knowledge Graph, and Drugs recommended.
+
 She has a [Husband](https://hzc0630.github.io/).
