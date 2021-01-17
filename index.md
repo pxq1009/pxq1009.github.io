@@ -8,7 +8,7 @@
       <p><b>TEL: (+86) 138-0702-6229</b></p>
     </td>
     <td width="25%">
-      <img src="/she.JPG" width="100%">
+      <img src="/she.jpg" width="100%">
     </td>
   </tr>
 </table>
